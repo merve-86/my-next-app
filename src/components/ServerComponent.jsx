@@ -4,7 +4,7 @@ const ServerComponent = () => {
     console.log("This is server component")
   return (
     <div>
-      servercomponent
+      Servercomponent
     </div>
   )
 }
